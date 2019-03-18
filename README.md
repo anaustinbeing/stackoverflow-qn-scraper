@@ -1,5 +1,5 @@
 ## stackoverflow-qn-scraper
-Scrapes questions from SO based on tag and search criteria.
+Scrapes questions from [Stack Overflow](https://stackoverflow.com) based on tag and search criteria.
 
 *Now let's search all questions in SO programmatically*. All you need is to run the code, give input parameters and that's it.
 
